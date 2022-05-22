@@ -8,6 +8,13 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "eslint": "^8.16.0",
+    "prettier": "^2.6.2",
     "vite": "^2.9.9"
+  },
+  "prettier": {
+    "jsxSingleQuote": true,
+    "singleQuote": true,
+    "trailingComma": "es5"
   }
 }
